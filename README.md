@@ -1,2 +1,2 @@
 # csharp
-For practice
+For my education at Mittuniversitetet
